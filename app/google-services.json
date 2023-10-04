@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107657030387",
+    "project_id": "login-project-82e44",
+    "storage_bucket": "login-project-82e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107657030387:android:4cedc37f378a61d7eda586",
+        "android_client_info": {
+          "package_name": "com.chobo.login1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLggG0Wc7tL1yBeZbM0kv9yJjQlF6KDSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
